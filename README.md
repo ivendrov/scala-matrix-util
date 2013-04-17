@@ -40,4 +40,4 @@ And have two convenient toString methods for pretty-printing:
 println(m1.toString) or just println(m1)
 println(m1.toString(3)) pads each entry to 3 characters 
 
-// See the provided "main" method for more sample code. 
+See the provided "main" method for more sample code. 
