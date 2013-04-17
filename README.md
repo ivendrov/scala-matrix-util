@@ -5,11 +5,11 @@ A small matrix class, written in Scala, with lightweight multiplication and expo
 all numeric types and booleans, as well as a bunch of utility methods I've found useful in my projects. 
 Use if you need to work with matrices but don't need the full power of a linear algebra library. 
 
-=================
-TUTORIAL
-=================
+==========
+Features
+==========
 
-// The Matrix object has a number of methods for quick creation, e.g
+// The Matrix object has a number of methods for quick matrix creation, e.g
 
 val m1 = Matrix(2,2,1)
 
