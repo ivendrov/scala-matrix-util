@@ -27,10 +27,13 @@ Individual matrix entries can be accessed and updated in any of the following wa
 
 m1(1,2) = 3 OR m1(1)(2) = 3 OR m1((1,2)) = 3 where (1,2) is a Tuple[Int,Int]
 
+
+
 Matrices can be multiplied and exponentiated using the standard syntax: 
 
 val product = m1 * m2
 val power = m1 ^ 10
+
 
 And have two convenient toString methods for pretty-printing:
 
